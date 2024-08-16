@@ -1,2 +1,2 @@
 name1 = "kiran"
-print(name1)    
+print(name1)
